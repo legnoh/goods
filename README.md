@@ -20,6 +20,7 @@ goods
 - 医薬品(medicine,first aid outfit)
 - 服、靴、タオル(Clothing,Shoes,towel)
 - 食品(food)
+- 日用品(daily necessaries)
 - Webサービス(web service)
 
 ## branch
