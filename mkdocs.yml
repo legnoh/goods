@@ -1,4 +1,5 @@
 site_name: survival-strategy
+repo_name: 'legnoh/sites'
 repo_url: https://github.com/legnoh/survival-strategy/
 site_author: legnoh
 copyright: Copyright © 2019 legnoh
@@ -9,4 +10,20 @@ nav:
       - '食品': 'things/foods.md'
   - 'home': 'user-guide.md'
   - 'money': 'about.md'
-
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'blue grey'
+    accent: 'teal'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  feature:
+    tabs: true
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/legnoh'
+    - type: 'twitter'
+      link: 'https://twitter.com/legnoh'
