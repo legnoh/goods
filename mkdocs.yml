@@ -1,0 +1,12 @@
+site_name: survival-strategy
+repo_url: https://github.com/legnoh/survival-strategy/
+site_author: legnoh
+copyright: Copyright © 2019 legnoh
+nav:
+  - 'index': 'index.md'
+  - 'things':
+      - 'ファッション': 'things/fashion.md'
+      - '食品': 'things/foods.md'
+  - 'home': 'user-guide.md'
+  - 'money': 'about.md'
+
