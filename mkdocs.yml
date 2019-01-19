@@ -12,12 +12,12 @@ nav:
   - 'money': 'about.md'
 theme:
   name: 'material'
-  language: 'en'
+  language: 'ja'
   palette:
     primary: 'blue grey'
     accent: 'teal'
   font:
-    text: 'Roboto'
+    text: 'M PLUS Rounded 1c'
     code: 'Roboto Mono'
   feature:
     tabs: true
@@ -27,3 +27,13 @@ extra:
       link: 'https://github.com/legnoh'
     - type: 'twitter'
       link: 'https://twitter.com/legnoh'
+  search:
+    language: 'jp, en'
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
