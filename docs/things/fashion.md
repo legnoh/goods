@@ -362,7 +362,7 @@ AIRismのシャツ。夏は部屋着、冬はインナーとして着用する�
 🎩 スーツ、フォーマル
 ----
 
-#### [メンズスーツ ビジネススタイル（ネオフィット）｜イオン](http://fashion.aeonsquare.net/business/neofit/)
+#### [イオン メンズスーツ ビジネススタイル（ネオフィット）](http://fashion.aeonsquare.net/business/neofit/)
 
 - サイズ/色 … M
 - 価格 … 12,000円
